@@ -1,0 +1,16 @@
+C:\Users\Medhat\Desktop\csharpmovewindow_demo\csharpmovewindow\MoveWindow\bin\Debug\MoveWindow.exe
+C:\Users\Medhat\Desktop\csharpmovewindow_demo\csharpmovewindow\MoveWindow\bin\Debug\MoveWindow.pdb
+C:\Users\Medhat\Desktop\csharpmovewindow_demo\csharpmovewindow\MoveWindow\obj\Debug\IpChecker.csprojResolveAssemblyReference.cache
+C:\Users\Medhat\Desktop\csharpmovewindow_demo\csharpmovewindow\MoveWindow\obj\Debug\MoveWindow.Form1.resources
+C:\Users\Medhat\Desktop\csharpmovewindow_demo\csharpmovewindow\MoveWindow\obj\Debug\MoveWindow.Properties.Resources.resources
+C:\Users\Medhat\Desktop\csharpmovewindow_demo\csharpmovewindow\MoveWindow\obj\Debug\IpChecker.csproj.GenerateResource.Cache
+C:\Users\Medhat\Desktop\csharpmovewindow_demo\csharpmovewindow\MoveWindow\obj\Debug\MoveWindow.exe
+C:\Users\Medhat\Desktop\csharpmovewindow_demo\csharpmovewindow\MoveWindow\obj\Debug\MoveWindow.pdb
+D:\XCoderPro Project\IP Checker\obj\Debug\MoveWindow.exe
+D:\XCoderPro Project\IP Checker\obj\Debug\MoveWindow.pdb
+D:\XCoderPro Project\IP Checker\bin\Debug\MoveWindow.exe
+D:\XCoderPro Project\IP Checker\bin\Debug\MoveWindow.pdb
+D:\XCoderPro Project\IP Checker\obj\Debug\IpChecker.csprojResolveAssemblyReference.cache
+D:\XCoderPro Project\IP Checker\obj\Debug\MoveWindow.Form1.resources
+D:\XCoderPro Project\IP Checker\obj\Debug\MoveWindow.Properties.Resources.resources
+D:\XCoderPro Project\IP Checker\obj\Debug\IpChecker.csproj.GenerateResource.Cache

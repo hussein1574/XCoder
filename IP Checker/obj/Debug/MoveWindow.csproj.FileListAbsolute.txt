@@ -1,0 +1,7 @@
+C:\Users\Medhat\Desktop\csharpmovewindow_demo\csharpmovewindow\MoveWindow\bin\Debug\MoveWindow.exe
+C:\Users\Medhat\Desktop\csharpmovewindow_demo\csharpmovewindow\MoveWindow\bin\Debug\MoveWindow.pdb
+C:\Users\Medhat\Desktop\csharpmovewindow_demo\csharpmovewindow\MoveWindow\obj\Debug\MoveWindow.csprojResolveAssemblyReference.cache
+C:\Users\Medhat\Desktop\csharpmovewindow_demo\csharpmovewindow\MoveWindow\obj\Debug\MoveWindow.Form1.resources
+C:\Users\Medhat\Desktop\csharpmovewindow_demo\csharpmovewindow\MoveWindow\obj\Debug\MoveWindow.csproj.GenerateResource.Cache
+C:\Users\Medhat\Desktop\csharpmovewindow_demo\csharpmovewindow\MoveWindow\obj\Debug\MoveWindow.exe
+C:\Users\Medhat\Desktop\csharpmovewindow_demo\csharpmovewindow\MoveWindow\obj\Debug\MoveWindow.pdb
